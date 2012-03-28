@@ -7,6 +7,6 @@ Add this to your config.yml inside of the .siriproxy foler:
     - name: 'GPP'
       git: 'git://github.com/robbederks/GooglePlacesPlugin.git'
 	
-These are the supported commands: 'nearby (*)', 'Where am I'
+These are the supported commands: 'nearby (*)', 'Where am I'. These commands are also translated into German. See the siriproxy-gpp.rb file inside the /lib folder for these commands.
 
 *** NOT FINISHED YET, MAYBE SOME BUGS ***
