@@ -4,5 +4,5 @@
 #NOTICE: Modifying these options in this file has no effect. You must put them in SiriProxy's config.yml!
 ##########################
     
-    - name: 'GooglePlacesPlugin'
+    - name: 'GPP'
       git: 'git://github.com/robbederks/GooglePlacesPlugin.git'
