@@ -1,0 +1,12 @@
+This is a plugin for a SiriProxy to use Google Places.
+
+To install:
+
+Add this to your config.yml inside of the .siriproxy foler:
+
+	- Name: "GooglePlacesPlugin"
+	- Git: "https://github.com/robbederks/GooglePlacesPlugin"
+	
+These are the supported commands: 'nearby restaurants', 'nearby doctors', 'nearby bars', 'nearby police'
+
+*** NOT FINISHED YET ***
