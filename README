@@ -4,8 +4,8 @@ To install:
 
 Add this to your config.yml inside of the .siriproxy foler:
 
-	- Name: "GPP"
-	- Git: "https://github.com/robbederks/GooglePlacesPlugin"
+    - name: 'GPP'
+      git: 'git://github.com/robbederks/GooglePlacesPlugin.git'
 	
 These are the supported commands: 'nearby (*)', 'Where am I'
 
