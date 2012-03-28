@@ -4,9 +4,9 @@ To install:
 
 Add this to your config.yml inside of the .siriproxy foler:
 
-	- Name: "GooglePlacesPlugin"
+	- Name: "GPP"
 	- Git: "https://github.com/robbederks/GooglePlacesPlugin"
 	
-These are the supported commands: 'nearby restaurants', 'nearby doctors', 'nearby bars', 'nearby police'
+These are the supported commands: 'nearby (*)', 'Where am I'
 
-*** NOT FINISHED YET ***
+*** NOT FINISHED YET, MAYBE SOME BUGS ***
