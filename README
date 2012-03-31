@@ -10,3 +10,5 @@ Add this to your config.yml inside of the .siriproxy foler:
 These are the supported commands: 'nearby (*)', 'Where am I'. These commands are also translated into German. See the siriproxy-gpp.rb file inside the /lib folder for these commands.
 
 *** NOT FINISHED YET, MAYBE SOME BUGS ***
+
+To donate, my PayPal email is robbe.derks <at> gmail.com
